@@ -1,0 +1,26 @@
+
+Select your player class...
+(Take your time recruit. This is important!)
+
+ 1 = Grunt 
+     [The grunt is your simple mechwarrior. It's capable 
+      of handling every kind of mech. but it has his
+      penalties with certain mechs]
+
+ 2 = Heavy Weapon Sarge
+     [The HW Sarge has it's speciality at heavy mechs
+      preferably fully loaded with weapons.]
+
+ 3 = Sniper/Scout
+     [The sniper or scout is a long range and tactical
+      unit. It prefers light weight mechs and long
+      range weapons]
+
+ 4 = Stealth/Spy
+     [The stealth unit or spy prefers light weight cloaked
+      mechs. It's skilled with very long range weapons]
+
+ 5 = More to come...
+
+
+Which class do you prefer? : 

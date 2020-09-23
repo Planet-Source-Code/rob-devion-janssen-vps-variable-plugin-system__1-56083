@@ -1,0 +1,24 @@
+----------------------------------------------------------------------
+                 Pineapple and Wired present to you 
+                  MECH WARRIORS - THE MUD VERSION.
+
+                          Coded by Devion.
+                   Initial Story concept by Devion
+                         
+                  Hosted by the Wired Gaming Service
+                     Http://URLTOWIREDGAMING HERE
+
+                     Your MechWarrior Admins are 
+
+                               Devion
+                              BitByter
+                            Lord Colossus
+
+                 Email support @ MechMud@Wired.slx.nl
+
+----------------------------------------------------------------------
+
+Please Stand by...
+.. Inner Sphere Login Kernel loaded
+.. Inner Sphere Security clearance 1 requested...
+.. Not accepted without username and password
